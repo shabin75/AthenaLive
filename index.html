@@ -31,9 +31,9 @@
         <nav class="nav-menu d-none d-lg-block">
             <ul>
                 <li class="active"><a href="">Home</a></li>
-                <li><a href="">About</a></li>
+                <li><a href="placement.html">Placement</a></li>
                 <li><a href="courses.html">Courses</a></li>
-                <li><a href="">Trainers</a></li>
+<!--                <li><a href="">Trainers</a></li>-->
                 <li><a href="events.html">Events</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
@@ -243,7 +243,7 @@
                                 Microcontrollers. Real-Time Operating Systems (RTOS) and Testing – Designing your own
                                 Circuit. Knowledge about: various sensors, Wired and Wireless communication, Proficiency
                                 in Multiple Programming Platforms. Hardware Designing and Working.
-                                </p>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -286,6 +286,48 @@
             </div>
         </div>
     </section>
+    <!--    pop up-->
+
+    <div class="container">
+<!--        <h2>Modal Example</h2>-->
+<!--        &lt;!&ndash; Trigger the modal with a button &ndash;&gt;-->
+<!--        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>-->
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content" style="background-image: url('assets/img/a5.jpeg')">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" style="color:white">&times;</button>
+                        <h4 class="modal-title"></h4>
+
+                    </div>
+                    <div class="modal-body">
+                        <p style="text-align: center;color:white;font-size: 25px;font-variant: petite-caps;">Write Job
+                            Placement Examination <br>
+                            And <br>
+                            Get Placed Immediately</p>
+                        <div style="text-align: center;">
+                            <a href="placement.html">
+                                <button type="button" style="background-color: #520a1e;" class="btn btn-danger">Get Started</button>
+                                </button></a>
+
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button"  class="btn btn-default" data-dismiss="modal" style="color:white;">Close
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <!--    end pop up-->
 </main>
 <footer id="footer">
     <div class="footer-top">
@@ -350,6 +392,11 @@
 <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 <script src="assets/vendor/aos/aos.js"></script>
 <script src="assets/js/main.js"></script>
+<script>
+$( document ).ready(function() {
+    $('#myModal').modal('show');
+});
+</script>
 </body>
 </html>
 </html>
