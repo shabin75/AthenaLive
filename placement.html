@@ -222,7 +222,7 @@
                 <div class="modal-body">
                     <div class="container">
                         <h2>Fill The form</h2>
-                        <form id="myForm" class="pure-form pure-form-stacked" action="https://script.google.com/macros/s/AKfycbyMEITDRbukU0pE8liu8D_lmXHysbq4-FPK-Am4/exec" method="post">
+                        <form class="pure-form pure-form-stacked" action="" method="post">
                             <div class="form-group">
                                 <label for="name">Full Name:</label>
                                 <input type="text" class="form-control" id="name" placeholder="Enter Your Name"
@@ -258,7 +258,10 @@
                                     <input class="form-check-input" type="checkbox" name="remember"> accept tearms and conditions
                                 </label>
                             </div>
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <div>
+                                <button style="float: right;" type="submit" class="btn btn-primary">Submit</button>
+<!--                                <input type="submit" name="submit" class="button" id="submit_btn" value="Send" />-->
+                            </div>
                         </form>
                     </div>
                 </div>
@@ -326,7 +329,7 @@
     </div>
 </footer>
 <!--google sheet link-->
-<!--https://script.google.com/macros/s/AKfycbyMEITDRbukU0pE8liu8D_lmXHysbq4-FPK-Am4/exec-->
+<!--https://script.google.com/macros/s/AKfycbzUhhjXXxhbwPSY6QvcbxMobAgE5XtzaDwTu9pEhulu8UKRwS4/exec-->
 <!-- End Footer -->
 <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
 <div id="preloader"></div>
@@ -340,6 +343,23 @@
 <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 <script src="assets/vendor/aos/aos.js"></script>
 <script src="assets/js/main.js"></script>
+<script>
+    $("form").on("submit", function (e) {
+    var dataString = $(this).serialize();
+    $.ajax({
+      type: "POST",
+      url: "https://script.google.com/macros/s/AKfycbzUhhjXXxhbwPSY6QvcbxMobAgE5XtzaDwTu9pEhulu8UKRwS4/exec",
+      data: dataString,
+
+      success: function () {
+        alert('successfully registered We will contact Soon..');
+        location.reload();
+      }
+    });
+
+    e.preventDefault();
+});
+</script>
 </body>
 </html>
 </html>
