@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd604a3a-59df-423d-ad72-62f8283206c8" name="Default Changelist" comment="" />
+    <list default="true" id="dd604a3a-59df-423d-ad72-62f8283206c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/placement.html" beforeDir="false" afterPath="$PROJECT_DIR$/placement.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
