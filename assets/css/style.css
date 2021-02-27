@@ -428,8 +428,24 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: rgba(255,255,255,1);
   font-family: "Poppins", sans-serif;
+  background-image: url("../img/bg4.jpeg");
+  background-repeat: repeat-x;
+  -webkit-text-fill-color : transparent;
+  -webkit-background-clip: text;
+  animation: animate 50s linear infinite;
+}
+
+@keyframes animate {
+
+    0%{
+        background-position: left 0px top 10px
+    }
+    40%{
+        background-position: left 800px top 10px
+    }
+
 }
 
 #hero h2 {
@@ -1562,5 +1578,4 @@ section {
   color: #fff;
   text-decoration: none;
 }
-
 
