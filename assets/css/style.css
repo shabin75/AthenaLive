@@ -1058,6 +1058,7 @@ section {
 
 .cource-details-tabs .details p {
   color: #777777;
+  text-align: justify;
 }
 
 .cource-details-tabs .details p:last-child {
@@ -1578,4 +1579,5 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
 
