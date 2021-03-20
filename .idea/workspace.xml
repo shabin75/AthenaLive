@@ -21,17 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd604a3a-59df-423d-ad72-62f8283206c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/customer1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/customer2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/customer3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/logo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/logo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/logo5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/news1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/news2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/images/news3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai.html" beforeDir="false" afterPath="$PROJECT_DIR$/ai.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/development.html" beforeDir="false" afterPath="$PROJECT_DIR$/development.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
