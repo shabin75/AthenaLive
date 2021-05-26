@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd604a3a-59df-423d-ad72-62f8283206c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +50,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/dev" />
       <recent name="$PROJECT_DIR$/ai/demo/css" />
       <recent name="$PROJECT_DIR$/assets/img/trainers" />
@@ -108,19 +110,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="405" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1615890492125">
-      <screen x="0" y="25" width="1440" height="785" />
-    </state>
-    <state x="405" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.785@0.25.1440.785" timestamp="1615890492125" />
-    <state x="421" y="53" key="RollbackChangesDialog" timestamp="1616142822688">
-      <screen x="0" y="25" width="1440" height="781" />
-    </state>
-    <state x="421" y="53" key="RollbackChangesDialog/0.25.1440.781@0.25.1440.781" timestamp="1616142822688" />
-    <state x="104" y="25" key="SettingsEditor" timestamp="1614755605276">
-      <screen x="0" y="25" width="1440" height="788" />
-    </state>
-    <state x="104" y="25" key="SettingsEditor/0.25.1440.788@0.25.1440.788" timestamp="1614755605276" />
   </component>
 </project>
