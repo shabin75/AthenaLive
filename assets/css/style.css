@@ -1081,7 +1081,7 @@ section {
 --------------------------------------------------------------*/
 .events .card {
   border: 0;
-  padding: -1 30px;
+  padding: 0 30px;
   margin-bottom: 60px;
   position: relative;
 }
@@ -1147,7 +1147,6 @@ section {
 .events .card:hover .card-body .card-title a {
   color: #88243d;
 }
-
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
