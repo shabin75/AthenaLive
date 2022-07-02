@@ -21,6 +21,76 @@
   <component name="ChangeListManager">
     <list default="true" id="dd604a3a-59df-423d-ad72-62f8283206c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/OpenSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/OpenSans-Semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont78ce.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont78ce.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/fontawesome-webfont78ce.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/affordable-pricing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/analytics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/banner-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/easy-to-use.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/effectively-increase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/free-support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/graphics-design.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/learn-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/marketing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/quality-results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/web-design.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/images/word-map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
